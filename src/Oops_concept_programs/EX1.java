@@ -8,5 +8,8 @@ public class EX1 {
 //		System.out.println(i);
 		
 	}
+	EX1(){
+		
+	}
 
 }
